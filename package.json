@@ -1,0 +1,29 @@
+{
+  "name": "nodecdn",
+  "version": "0.0.1",
+  "description": "A Node.js implementation of a distributed (peer-to-peer) CDN (content delivery network) using the Kademlia DHT.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgeorgiev583/nodecdn.git"
+  },
+  "keywords": [
+    "dcdn",
+    "cdn",
+    "dht",
+    "p2p",
+    "http",
+    "distributed",
+    "delivery",
+    "content"
+  ],
+  "author": "Radoslav Georgiev <rgoergiev583@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rgeorgiev583/nodecdn/issues"
+  },
+  "homepage": "https://github.com/rgeorgiev583/nodecdn#readme"
+}
