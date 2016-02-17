@@ -1,0 +1,16 @@
+{
+  "title": "Distributed HTTP Cache",
+  "name": "dhttpc",
+  "version": "0.0.1",
+  "description": "Distributed HTTP cache based on the `nodecdn' Node.js distributed CDN module.",
+  "main": "index.js",
+  "author": "Radoslav Georgiev <rgeorgiev583@gmail.com>",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
