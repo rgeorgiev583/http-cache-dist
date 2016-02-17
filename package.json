@@ -27,7 +27,9 @@
   },
   "homepage": "https://github.com/rgeorgiev583/nodecdn#readme",
   "dependencies": {
+    "bufferutil": "^1.2.1",
     "kademlia-dht": "^0.1.0",
-    "socket.io": "^1.4.5"
+    "socket.io": "^1.4.5",
+    "utf-8-validate": "^1.2.1"
   }
 }
