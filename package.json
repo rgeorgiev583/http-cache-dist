@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/rgeorgiev583/nodecdn/issues"
   },
-  "homepage": "https://github.com/rgeorgiev583/nodecdn#readme"
+  "homepage": "https://github.com/rgeorgiev583/nodecdn#readme",
+  "dependencies": {
+    "kademlia-dht": "^0.1.0",
+    "socket.io": "^1.4.5"
+  }
 }
